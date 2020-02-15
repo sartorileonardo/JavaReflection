@@ -2,13 +2,13 @@
 
 “O mundo é como um espelho que devolve a cada pessoa o reflexo de seus próprios
 pensamentos.”
-– Luís Fernando Veríssimo
+Author: Luís Fernando Veríssimo
 
 Translated to English
 
 “The world is like a mirror that gives back to each person the reflection of their own
 thoughts."
-- Luís Fernando Veríssimo
+Author: Luís Fernando Veríssimo
 
 # Advantages
 Utilizando reflexão você pode ganhar flexibilidade e reaporveitamento de código para o seu projeto.
